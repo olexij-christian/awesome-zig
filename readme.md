@@ -4,6 +4,7 @@
 
 [Zig](https://ziglang.org) is a general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
+
 ## Algorithms and data structures
 - [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - Implementing lz4 in zig.
 - [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - An array with a vector feeling in Zig
@@ -15,6 +16,7 @@
 - [v1zix/zig-string](https://github.com/v1zix/zig-string) - Strings for Zig
 - [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
 
+
 ## Allocators and memory
 - [dbandstra/zig-hunk](https://github.com/dbandstra/zig-hunk) - Basic stack allocator for Zig
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) - tiny Zig allocator primarily targeting WebAssembly
@@ -22,10 +24,12 @@
 - [suirad/Seal](https://github.com/suirad/Seal) - An allocator that wraps another allocator and detects if memory is leaked after usage
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) - A super simple mark-and-sweep garbage collector written in Zig.
 
+
 ## Audio
 - [dbandstra/zang](https://github.com/dbandstra/zang) - Audio synthesis for Zig
 - [dbandstra/zig-wav](https://github.com/dbandstra/zig-wav) -
 - [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi) -
+
 
 ## Bootables
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
@@ -46,11 +50,13 @@
 - [yvt/zig-armv8m-test](https://github.com/yvt/zig-armv8m-test) - Example Zig-based app for Armv8-M + TrustZone
 - [ZeeBoppityZagZiggity/ZBZZ.OS](https://github.com/ZeeBoppityZagZiggity/ZBZZ.OS) - An operating system built with RISCV and Zig
 
+
 ## Compilers and interpreters
 - [CurtisFenner/zsmol](https://github.com/CurtisFenner/zsmol) - The new Smol compiler and reference.
 - [squeek502/zua](https://github.com/squeek502/zua) - An implementation of Lua 5.1 in Zig, for learning purposes
 - [Vexu/bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language.
 - [LoLa Programming Language](https://lola.random-projects.net/) - ([GitHub](https://github.com/MasterQ32/LoLa)) An embeddable programming language for game scripting
+
 
 ## Database
 - [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) - Hashing-function agnostic Cuckoo filters for Redis
@@ -58,6 +64,7 @@
 - [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) -
 - [vrischmann/zig-cassandra](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+
 - [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) - SQLite wrapper
+
 
 ## Editor plugins
 - [ice1000/intellij-zig](https://github.com/ice1000/intellij-zig) - The IntelliJ IDEA plugin for the Zig programming language ┗😃┛ ┏😃┓ ┗😃┛ ┏😃┓
@@ -69,6 +76,7 @@
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) - Vim configuration for Zig
 - [zigtools/zls](https://github.com/zigtools/zls) - Zig LSP implementation + Zig Language Server
 
+
 ## Emulators
 - [emekoi/c8](https://github.com/emekoi/c8) - chip 8 emulator in zig
 - [fengb/fundude](https://github.com/fengb/fundude) - Gameboy emulator: Zig -> wasm
@@ -79,6 +87,7 @@
 - [Srekel/zag](https://github.com/Srekel/zag) - Game dev project written in Zig and C
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) - A gameboy emulator in zig
 
+
 ## Game tools and libraries
 - [danielabbott/Game-Engine](https://github.com/danielabbott/Game-Engine) -
 - [emekoi/ziglet](https://github.com/emekoi/ziglet) - a small zig game library
@@ -87,6 +96,7 @@
 - [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms
 - [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) -
 - [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) - Work in progress SDK for creating Game Boy Advance games using Zig programming language.
+
 
 ## Games
 - [Akuli/curses-minesweeper](https://github.com/Akuli/curses-minesweeper) - Minesweeper game written in curses with zig
@@ -98,6 +108,7 @@
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) - Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) - Line-race tetris mode in Zig
 - [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - Linear algebra library for games and real-time computer graphics.
+
 
 ## GUI
 - [andrewrk/zig-mandelbrot-gl](https://github.com/andrewrk/zig-mandelbrot-gl) - mandelbrot set in zig
@@ -116,6 +127,7 @@
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) - Zootdeck Fediverse GTK Desktop Reader
 - [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) - A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system.
 
+
 ## Misc libraries
 - [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) - Linq in Zig
 - [DutchGhost/maybeuninit](https://github.com/DutchGhost/maybeuninit) - MaybeUninit in Zig.
@@ -124,6 +136,7 @@
 - [kprotty/zap](https://github.com/kprotty/zap) - A collection of zig libraries which provide interfaces over the system for writing high performance applications
 - [mlarouche/zigimg](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems
+
 
 ## Network
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) - Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard
@@ -134,11 +147,13 @@
 - [Vexu/zuri](https://github.com/Vexu/zuri) - URI parser for Zig
 - [remeh/statsd-zig](https://github.com/remeh/statsd-zig) - Basic DogStatsD UDP server
 
+
 ### HTTP
 - [ducdetronquito/h11](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11
 - [lun-4/ziget](https://github.com/lun-4/ziget) - simple wget in zig without libc
 - [Vexu/routez](https://github.com/Vexu/routez) - Http server for Zig
 - [frmdstryr/zhp](https://github.com/frmdstryr/zhp) - WIP Featureful HTTP server 
+
 
 ## Web
 - [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) - using zig to build lua for webassembly
@@ -150,6 +165,7 @@
 - [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) - Zig + WebAssembly + JS + DOM
 - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) - zig fmt on the web
 
+
 ## System tools
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig
 - [hspak/brightnessztl](https://github.com/hspak/brightnessztl) - A CLI to control device backlight
@@ -158,10 +174,12 @@
 
 ## Zig development tools
 - [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers
+
 ### Language servers
 - [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) - Language Server Protocol for Zig
 - [gernest/hoodie](https://github.com/gernest/hoodie) - pure zig language server with swagger and bling bling
 - ~~[meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)~~
+
 
 ### Package managers
 - [zigtools/zpm](https://github.com/zigtools/zpm) - Unofficial Zig package manager
