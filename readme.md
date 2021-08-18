@@ -130,6 +130,16 @@
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
 - [frmdstryr/zhp](https://github.com/frmdstryr/zhp) WIP Featureful HTTP server 
 
+## Web
+- [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) using zig to build lua for webassembly
+- [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
+- [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
+- [gernest/url](https://github.com/gernest/url)
+- [kivikakk/htmlentities.zig](https://github.com/kivikakk/htmlentities.zig) HTML5 entity data.
+- [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) A minimal Web Assembly example using Zig's build system.
+- [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) Zig + WebAssembly + JS + DOM
+- [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) zig fmt on the web
+
 ## System tools
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) BSD/Linux core utilities written in Zig
 - [hspak/brightnessztl](https://github.com/hspak/brightnessztl) A CLI to control device backlight
@@ -139,23 +149,6 @@
 ## Zig development tools
 - [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) Language Server Protocol for Zig
 - [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
-
-## Other
-- [belse-de/zig-tut](https://github.com/belse-de/zig-tut) A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
-- [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
-- [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
-- [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
-- [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
-- [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
-- [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
-- [lun-4/zig-docsearch](https://github.com/lun-4/zig-docsearch) search over zig stdlib doc comments (with rudimentary html gen)
-- [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system.
-- [meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)
-- [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
-- [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
-- [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
-- [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) Zig learning resources
-- [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
 
 
 ## Parser
@@ -176,13 +169,21 @@
 - [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
 - [demizer/markzig](https://github.com/demizer/markzig) Pure Zig Markdown Parser
 
-## Web
-- [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) using zig to build lua for webassembly
-- [fengb/fundude](https://github.com/fengb/fundude) Gameboy emulator: Zig -> wasm
-- [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
-- [gernest/url](https://github.com/gernest/url)
-- [kivikakk/htmlentities.zig](https://github.com/kivikakk/htmlentities.zig) HTML5 entity data.
-- [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) A minimal Web Assembly example using Zig's build system.
-- [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) Zig + WebAssembly + JS + DOM
-- [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) zig fmt on the web
-- [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
+
+## Other
+- [belse-de/zig-tut](https://github.com/belse-de/zig-tut) A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
+- [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
+- [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
+- [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
+- [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
+- [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
+- [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
+- [lun-4/zig-docsearch](https://github.com/lun-4/zig-docsearch) search over zig stdlib doc comments (with rudimentary html gen)
+- [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system.
+- [meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)
+- [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
+- [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
+- [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
+- [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) Zig learning resources
+- [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
+
