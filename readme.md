@@ -205,4 +205,5 @@
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - iLO license key library
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) - Convert System View Description (svd) files to Zig headers for baremetal development
 - [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) - Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
+- [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) client.
 
