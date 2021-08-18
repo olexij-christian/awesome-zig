@@ -1,5 +1,7 @@
 # Awesome Zig
 
+[<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org)
+
 [Zig](https://ziglang.org) is a general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## Algorithms and data structures
