@@ -128,6 +128,7 @@
 - [ducdetronquito/h11](https://github.com/ducdetronquito/h11) I/O-free HTTP/1.1 implementation inspired by hyper/h11
 - [lun-4/ziget](https://github.com/lun-4/ziget) simple wget in zig without libc
 - [Vexu/routez](https://github.com/Vexu/routez) Http server for Zig
+- [frmdstryr/zhp](https://github.com/frmdstryr/zhp) WIP Featureful HTTP server 
 
 ## System tools
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) BSD/Linux core utilities written in Zig
