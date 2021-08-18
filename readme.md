@@ -105,6 +105,8 @@
 - [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) simple raytracer in zig
 - [tiehuis/zig-sdl2](https://github.com/tiehuis/zig-sdl2) SDL2 bindings for Zig
 - [winksaville/zig-3d-soft-engine](https://github.com/winksaville/zig-3d-soft-engine) An attempt to create a 3D engine in software using zig.
+- [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
+- [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system.
 
 ## Misc libraries
 - [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) Linq in Zig
@@ -173,13 +175,11 @@
 
 ## Other
 - [belse-de/zig-tut](https://github.com/belse-de/zig-tut) A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
-- [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
 - [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
 - [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
 - [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
 - [lun-4/zig-docsearch](https://github.com/lun-4/zig-docsearch) search over zig stdlib doc comments (with rudimentary html gen)
-- [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) A simple paint application written in Zig. Used to create an OpenGL loader/wrapper and a minimal UI system.
 - [meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)
 - [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
