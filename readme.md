@@ -151,6 +151,7 @@
 
 ## Zig development tools
 - [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) Language Server Protocol for Zig
+- [marler8997/zigup](https://github.com/marler8997/zigup) Download and manage zig compilers
 - [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
 - [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
 - ~~[meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)~~
