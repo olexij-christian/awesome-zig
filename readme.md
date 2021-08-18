@@ -136,8 +136,11 @@
 - [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) produce an annotated hexdump of a zipfile
 
 
-## Other
+## Zig development tools
 - [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) Language Server Protocol for Zig
+- [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
+
+## Other
 - [belse-de/zig-tut](https://github.com/belse-de/zig-tut) A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) Zootdeck Fediverse GTK Desktop Reader
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
@@ -151,7 +154,6 @@
 - [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
-- [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) Zig learning resources
 - [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
 
