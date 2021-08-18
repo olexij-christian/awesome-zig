@@ -182,6 +182,7 @@
 - [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) Parse command line arguments.
 - [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
 - [demizer/markzig](https://github.com/demizer/markzig) Pure Zig Markdown Parser
+- [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
 
 
 ## Learning resources
@@ -195,7 +196,6 @@
 
 ## Other
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
-- [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
 - [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
 - [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
