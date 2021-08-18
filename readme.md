@@ -164,6 +164,7 @@
 
 ### Package managers
 - [zigtools/zpm](https://github.com/zigtools/zpm) - Unofficial Zig package manager
+- [mattnite/gyro](https://github.com/mattnite/gyro) - Package manager with an index, build runner, and build dependencies
 - [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig) - Zig plugin for the ASDF package manager
 
 
