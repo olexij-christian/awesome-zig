@@ -10,11 +10,12 @@
 - [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) Sparse sets for zig, supporting both SOA and AOS style
 - [v1zix/zig-string](https://github.com/v1zix/zig-string) Strings for Zig
 
-## Allocators
+## Allocators and memory
 - [dbandstra/zig-hunk](https://github.com/dbandstra/zig-hunk) Basic stack allocator for Zig
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) tiny Zig allocator primarily targeting WebAssembly
 - [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) A general-purpose memory allocator for Zig
 - [suirad/Seal](https://github.com/suirad/Seal) An allocator that wraps another allocator and detects if memory is leaked after usage
+- [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
 
 ## Audio
 - [dbandstra/zang](https://github.com/dbandstra/zang) Audio synthesis for Zig
@@ -184,7 +185,6 @@
 ## Other
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
 - [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
-- [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) A super simple mark-and-sweep garbage collector written in Zig.
 - [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
 - [meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)
 - [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
