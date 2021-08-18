@@ -153,6 +153,7 @@
 - [andersfr/zig-lsp](https://github.com/andersfr/zig-lsp) Language Server Protocol for Zig
 - [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
 - [gernest/hoodie](https://github.com/gernest/hoodie) pure zig language server with swagger and bling bling
+- ~~[meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)~~
 
 
 ## Parser
@@ -182,11 +183,11 @@
 ## Documentation
 - [lun-4/zig-docsearch](https://github.com/lun-4/zig-docsearch) search over zig stdlib doc comments (with rudimentary html gen)
 
+
 ## Other
 - [fengb/zig-protobuf](https://github.com/fengb/zig-protobuf)
 - [gernest/base32](https://github.com/gernest/base32) base32 encoding/decoding for ziglang
 - [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) geteltorito re-write in Zig
-- [meta-leap/langserv](https://github.com/meta-leap/langserv) LSP implementation lib plus demo / dummy language server showcasing usage (WIP)
 - [momumi/x86-zig](https://github.com/momumi/x86-zig) library for assembling x86 in zig (WIP)
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) iLO license key library
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) Convert System View Description (svd) files to Zig headers for baremetal development
