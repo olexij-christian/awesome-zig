@@ -1,6 +1,8 @@
 # Awesome Zig [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-[<img src="assets/awesome-zig.svg" align="center" width="400">](https://ziglang.org)
+<center>
+    <a href="https://ziglang.org"><img src="assets/awesome-zig.svg" align="center" width="400"></a>
+</center>
 
 [Zig](https://ziglang.org) is a general-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
