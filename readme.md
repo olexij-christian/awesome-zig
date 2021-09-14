@@ -169,12 +169,16 @@
 - [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) - A minimal Web Assembly example using Zig's build system.
 - [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) - Zig + WebAssembly + JS + DOM
 - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) - zig fmt on the web
+- [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) - Common Wasm runtime binding to C API
+- [zigwasm/wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Zig bindings for the Wasmer WebAssembly runtime
+- [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Zig embedding of Wasmtime
 
 
 ## System tools
 - [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig
 - [hspak/brightnessztl](https://github.com/hspak/brightnessztl) - A CLI to control device backlight
 - [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) - produce an annotated hexdump of a zipfile
+- [kubkon/zacho](https://github.com/kubkon/zacho) - Zig's Mach-O parser
 
 
 ## Zig development tools
@@ -201,6 +205,7 @@
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
 - [kivikakk/libpcre.zig](https://github.com/kivikakk/libpcre.zig) - Bindings to libpcre for Perl-compatible regular expressions
 - [kivikakk/koino](https://github.com/kivikakk/koino) - CommonMark/GitHub Flavored Markdown parser and HTML renderer
+- [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser for Zig
 - [m-r-hunt/tjp](https://github.com/m-r-hunt/tjp) -
 - [prostomarkeloff/zigini](https://github.com/prostomarkeloff/zigini) - Simple, small (~220 loc) library for parsing .INI files in Zig.
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - A regex implementation for the zig programming language
@@ -229,4 +234,5 @@
 - [vegecode/svd2zig](https://github.com/vegecode/svd2zig) - Convert System View Description (svd) files to Zig headers for baremetal development
 - [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) - Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
 - [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) client.
+- [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS
 
