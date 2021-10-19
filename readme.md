@@ -92,6 +92,7 @@
 
 ## Game tools and libraries
 - [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) bindings
+- [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem
 - [danielabbott/Game-Engine](https://github.com/danielabbott/Game-Engine) -
 - [emekoi/ziglet](https://github.com/emekoi/ziglet) - a small zig game library
 - [kristianhasselknippe/zig-game-engine](https://github.com/kristianhasselknippe/zig-game-engine) - Learning zig through game engine
