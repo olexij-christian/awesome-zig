@@ -217,6 +217,7 @@
 - [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) - Parse command line arguments.
 - [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) - Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
 - [gernest/base32](https://github.com/gernest/base32) - base32 encoding/decoding for ziglang
+- [caolan/zig-netstring](https://git.sr.ht/~caolan/zig-netstring) Zig netstring parser
 
 
 ## Learning resources
