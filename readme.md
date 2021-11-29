@@ -56,6 +56,7 @@
 - [squeek502/zua](https://github.com/squeek502/zua) - An implementation of Lua 5.1 in Zig, for learning purposes
 - [Vexu/bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language.
 - [LoLa Programming Language](https://lola.random-projects.net/) - ([GitHub](https://github.com/MasterQ32/LoLa)) An embeddable programming language for game scripting
+- [dantecatalfamo/brainfuck-zig](https://github.com/dantecatalfamo/brainfuck-zig) - Brainfuck interpreter
 
 
 ## Database
