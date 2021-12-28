@@ -201,7 +201,7 @@
 
 ## Parser
 - [darithorn/zig-toml](https://github.com/darithorn/zig-toml) - A TOML parser written in Zig
-- [ducdetronquito/hppy](https://github.com/ducdetronquito/hppy) - The happy HTML parser ᕕ( ᐛ )ᕗ
+- [chwayne/rem](https://github.com/chwayne/rem) - An HTML parsing library
 - [gernest/url](https://github.com/gernest/url) -
 - [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying with zig
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library
