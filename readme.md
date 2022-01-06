@@ -18,7 +18,6 @@
 
 
 ## Allocators and memory
-- [dbandstra/zig-hunk](https://github.com/dbandstra/zig-hunk) - Basic stack allocator for Zig
 - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) - tiny Zig allocator primarily targeting WebAssembly
 - [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) - A general-purpose memory allocator for Zig
 - [suirad/Seal](https://github.com/suirad/Seal) - An allocator that wraps another allocator and detects if memory is leaked after usage
@@ -26,8 +25,6 @@
 
 
 ## Audio
-- [dbandstra/zang](https://github.com/dbandstra/zang) - Audio synthesis for Zig
-- [dbandstra/zig-wav](https://github.com/dbandstra/zig-wav) -
 - [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi) -
 
 
@@ -107,7 +104,6 @@
 - [Akuli/curses-minesweeper](https://github.com/Akuli/curses-minesweeper) - Minesweeper game written in curses with zig
 - [andrewrk/clashos](https://github.com/andrewrk/clashos) - multiplayer arcade game for bare metal Raspberry Pi 3 B+
 - [andrewrk/tetris](https://github.com/andrewrk/tetris) - A simple tetris clone written in zig programming language.
-- [dbandstra/oxid](https://github.com/dbandstra/oxid) - Arcade style game written in Zig
 - [fabioarnold/snake-zig](https://github.com/fabioarnold/snake-zig) -
 - [Stenodyon/blink](https://github.com/Stenodyon/blink) - A game about building logic with lasers
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) - Hack-n-slash roguelike inspired by NetHack
@@ -122,7 +118,6 @@
 - [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) - simple triangle displayed using vulkan, glfw, and zig
 - [kassane/QML-zig](https://github.com/kassane/qml_zig) - QML bindings for the Zig programming language.
 - [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - https://learnopengl.com tutorials ported to zig
-- [dbandstra/zig-pcx](https://github.com/dbandstra/zig-pcx) - Load and save PCX images in Zig
 - [ifreund/river](https://github.com/ifreund/river) - dynamic wayland compositor that takes inspiration from dwm and bspwm
 - [purringChaos/zar](https://github.com/purringChaos/zar) - i3bar/swaybar bar generator ([i3status](https://i3wm.org/i3status/) replacement)
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - A Zig implementation of the "Ray Tracing in One Weekend" book
