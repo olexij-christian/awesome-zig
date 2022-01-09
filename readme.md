@@ -55,6 +55,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system.
 * [andrewrk/clashos](https://github.com/andrewrk/clashos) - Multiplayer arcade game for bare metal Raspberry Pi 3 B+.
 * [andrewrk/HellOS](https://github.com/andrewrk/HellOS) - "hello world" x86 kernel example.
+* [chivay/vmt](https://github.com/chivay/vmt) - Toy OS.
 * [DorianXGH/Lukarnel](https://github.com/DorianXGH/Lukarnel) - A microkernel with Rust microservices.
 * [iguessthislldo/georgios](https://github.com/iguessthislldo/georgios) - Hobby Operating System.
 * [jzck/kernel-zig](https://github.com/jzck/kernel-zig) - Hobby x86 kernel.
