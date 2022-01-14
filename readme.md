@@ -133,7 +133,7 @@
 * [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 * [zenith391/zgt](https://github.com/zenith391/zgt) - Zig GUI Toolkit: Portable library for making native GUIs in Zig.
 * [kassane/QML-zig](https://github.com/kassane/qml_zig) - QML bindings.
-* [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - [https://learnopengl.com](Learn OpenGL) tutorials ported to Zig.
+* [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - [Learn OpenGL](https://learnopengl.com) tutorials ported to Zig.
 * [ifreund/river](https://github.com/ifreund/river) - Dynamic wayland compositor that takes inspiration from dwm and bspwm.
 * [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - An implementation of the "Ray Tracing in One Weekend" book.
 * [SpexGuy/Zig-Gltf-Display](https://github.com/SpexGuy/Zig-Gltf-Display) - A program that displays glTF files using Vulkan.
