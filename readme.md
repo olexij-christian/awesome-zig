@@ -42,7 +42,7 @@
 
 
 ## Allocators and memory
-* [fengb/zee_alloc](https://github.com/fengb/zee_alloc) - Tiny allocator primarily targeting WebAssembly
+* [fengb/zee_alloc](https://github.com/fengb/zee_alloc) - Tiny allocator primarily targeting WebAssembly.
 * [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) - A general-purpose memory allocator.
 * [suirad/Seal](https://github.com/suirad/Seal) - An allocator that wraps another allocator and detects if memory is leaked after usage.
 * [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) - A super simple mark-and-sweep garbage collector.
