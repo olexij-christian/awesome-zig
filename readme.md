@@ -58,7 +58,7 @@
 * [andrewrk/HellOS](https://github.com/andrewrk/HellOS) - "hello world" x86 kernel example.
 * [DorianXGH/Lukarnel](https://github.com/DorianXGH/Lukarnel) - A microkernel with Rust microservices.
 * [iguessthislldo/georgios](https://github.com/iguessthislldo/georgios) - Hobby Operating System.
-* [jzck/kernel-zig](https://github.com/jzck/kernel-zig) - 💾 hobby x86 kernel.
+* [jzck/kernel-zig](https://github.com/jzck/kernel-zig) - Hobby x86 kernel.
 * [markfirmware/zig-bare-metal-microbit](https://github.com/markfirmware/zig-bare-metal-microbit) - Bare metal microbit program.
 * [markfirmware/zig-bare-metal-raspberry-pi](https://github.com/markfirmware/zig-bare-metal-raspberry-pi) - Bare metal raspberry pi program.
 * [MasterQ32/RetrOS](https://github.com/MasterQ32/RetrOS) - A retro-style gaming console running on bare x86 metal.
