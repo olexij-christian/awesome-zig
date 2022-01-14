@@ -26,7 +26,6 @@
   * [Package managers](#package-managers)
 * [Parser](#parser)
 * [Learning resources](#learning-resources)
-* [Documentation](#documentation)
 * [Other](#other)
 
 
