@@ -37,7 +37,6 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) - TimSort implementation.
 * [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) - A container library.
 * [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) - Sparse sets, supporting both SOA and AOS style.
-* [v1zix/zig-string](https://github.com/v1zix/zig-string)
 * [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
 
 
