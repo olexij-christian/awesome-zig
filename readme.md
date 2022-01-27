@@ -128,6 +128,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## GUI
 * [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
+* [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
+* [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 * [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) - Simple triangle displayed using Vulkan, GLFW, and Zig.
 * [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 * [zenith391/zgt](https://github.com/zenith391/zgt) - Zig GUI Toolkit: Portable library for making native GUIs in Zig.
