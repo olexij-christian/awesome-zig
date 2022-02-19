@@ -49,6 +49,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Audio
 * [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
+* [hazeycode/zig-alsa](https://github.com/hazeycode/zig-alsa) - Bindings for ALSA (libasound)
 
 
 ## Bootables
