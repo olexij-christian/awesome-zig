@@ -114,6 +114,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 * [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
 * [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) - SDK for creating Game Boy Advance games using Zig.
+* [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platforms games, simulations, engines & editors.
 
 
 ## Games
