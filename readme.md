@@ -30,6 +30,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 
 ## Algorithms and data structures
+* [ziglibs/s2s](https://github.com/ziglibs/s2s) - Binary serialization format and library.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 implementation.
 * [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - An array with a vector feeling.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - A lock free chase-lev deque.
