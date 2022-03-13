@@ -179,6 +179,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) - Common WASM runtime binding to C API.
 * [zigwasm/wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Bindings for the Wasmer WebAssembly runtime.
 * [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
+* [batiati/mustache-zig](https://github.com/batiati/mustache-zig) - Mustache implementation.
 
 
 ## System tools
