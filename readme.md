@@ -167,6 +167,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [lun-4/ziget](https://github.com/lun-4/ziget) - Simple wget without libc.
 * [Vexu/routez](https://github.com/Vexu/routez) - HTTP server.
 * [frmdstryr/zhp](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
+* [axgdev/telegram_echobot_zig](https://github.com/axgdev/telegram_echobot_zig) - Telegram echo bot.
 
 
 ## Web
