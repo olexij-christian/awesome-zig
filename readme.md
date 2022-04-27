@@ -106,6 +106,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [GrooveStomp/chip8-zig](https://github.com/GrooveStomp/chip8-zig) - CHIP-8 emulator.
 * [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) - Virtual Boy emulator.
 * [floooh/kc85.zig](https://github.com/floooh/kc85.zig) - A KC85 emulator.
+* [Arwalk/ChipZ](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
 
 
 ## Game tools and libraries
