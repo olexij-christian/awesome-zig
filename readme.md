@@ -48,6 +48,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [suirad/Seal](https://github.com/suirad/Seal) - An allocator that wraps another allocator and detects if memory is leaked after usage.
 * [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) - A super simple mark-and-sweep garbage collector.
 
+
 ## Audio
 * [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 * [hazeycode/zig-alsa](https://github.com/hazeycode/zig-alsa) - Bindings for ALSA (libasound).
