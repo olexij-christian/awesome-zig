@@ -139,12 +139,12 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## GUI
 * [capy-ui/capy](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+* [fubark/cosmic](https://github.com/fubark/cosmic) - GUI toolkit.
+* [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 * [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
 * [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
 * [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 * [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) - Simple triangle displayed using Vulkan, GLFW, and Zig.
-* [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
-* [zenith391/zgt](https://github.com/zenith391/zgt) - Zig GUI Toolkit: Portable library for making native GUIs in Zig.
 * [kassane/QML-zig](https://github.com/kassane/qml_zig) - QML bindings.
 * [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - [Learn OpenGL](https://learnopengl.com) tutorials ported to Zig.
 * [ifreund/river](https://github.com/ifreund/river) - Dynamic wayland compositor that takes inspiration from dwm and bspwm.
@@ -246,7 +246,6 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Other
 * [All Your Codebase](https://allyourcodebase.com/) - Development status of Zig and its' ecosystem.
-* [fubark/cosmic](https://github.com/fubark/cosmic) - A general purpose runtime for Javascript/WASM.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito re-write in Zig.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - Library for assembling x86.
 * [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
