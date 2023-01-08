@@ -139,6 +139,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## GUI
 * [capy-ui/capy](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
+* [david-vanderson/gui](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
+* [Aransentin/ZWL](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
+* [prime31/zig-upaya](https://github.com/prime31/zig-upaya) - GUI toolkit.
 * [fubark/cosmic](https://github.com/fubark/cosmic) - GUI toolkit.
 * [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - Zig idiomatic and type-checked bindings for IUP Portable User Interface Toolkit.
 * [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Self-contained SDL2 package for Zig.
@@ -246,6 +249,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Other
 * [All Your Codebase](https://allyourcodebase.com/) - Development status of Zig and its' ecosystem.
+* [zig.pm](https://zig.pm/) - A community-maintained repository of Zig packages.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito re-write in Zig.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - Library for assembling x86.
 * [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
