@@ -115,8 +115,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 
 ## Game tools and libraries
-* [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) bindings.
+* [hexops/mach](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 * [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
+* [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) bindings.
 * [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 * [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 * [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
