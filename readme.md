@@ -237,6 +237,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [caolan/zig-netstring](https://git.sr.ht/~caolan/zig-netstring) - Netstring parser.
 * [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 * [iddev5/inon](https://github.com/iddev5/inon) - Data configuration file format.
+* [naneros/ztoml](https://codeberg.org/naneros/ztoml.git) - TOMLv1.0.0 parser and convert TOML to JSON.
 
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
