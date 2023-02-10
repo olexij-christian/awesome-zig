@@ -186,7 +186,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [ducdetronquito/requestz](https://github.com/ducdetronquito/requestz) - HTTP client based on h11.
 * [ducdetronquito/h11](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
 * [lun-4/ziget](https://github.com/lun-4/ziget) - Simple wget without libc.
-* [Vexu/routez](https://github.com/Vexu/routez) - HTTP server.
+* ~~[Vexu/routez](https://github.com/Vexu/routez) - HTTP server.~~
 * [frmdstryr/zhp](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
 * [axgdev/telegram_echobot_zig](https://github.com/axgdev/telegram_echobot_zig) - Telegram echo bot.
 
