@@ -178,6 +178,8 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [karlseguin/log.zig](https://github.com/karlseguin/log.zig) - Structured logging library.
 * [dantecatalfamo/9p-zig](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 * [karlseguin/singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
+* [iacore/minicoro-zig](https://git.envs.net/iacore/minicoro-zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
+
 
 ## Network
 * [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
