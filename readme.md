@@ -92,6 +92,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 ## Concurrency
+* [mitchellh/libxev](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
 * [kprotty/zefi](https://github.com/kprotty/zefi) - Zig fiber library.
 * [rsepassi/zigcoro](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
 
