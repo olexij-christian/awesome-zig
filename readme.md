@@ -238,6 +238,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [nektro/zigmod](https://github.com/nektro/zigmod) - Zig package manager.
 * [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig) - Zig plugin for the ASDF package manager.
 * [mattnite/ezpkg](https://github.com/mattnite/ezpkg) - Zig Package Manager Expansion Pack.
+* [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 
 ## Parser
