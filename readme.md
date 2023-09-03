@@ -292,7 +292,7 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [kassane/asio](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
 * [kassane/fmt](https://github.com/kassane/fmt) - Modern formatting library.
 * [kassane/context](https://github.com/kassane/context) - (boost-context) fiber library (C++14/17/20).
-* [kassane/context](https://github.com/kassane/fiber) - (boost-fiber) userland threads (C++14/17/20).
+* [kassane/fiber](https://github.com/kassane/fiber) - (boost-fiber) userland threads (C++14/17/20).
 * [kassane/beast](https://github.com/kassane/beast) - (boost-beast) HTTP and WebSocket (C++14/17/20).
 * [kassane/hana](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
 * [kassane/intrusive](https://github.com/kassane/intrusive) - (boost-intrusive) intrusive containers (header-only, C++03/11/14).
