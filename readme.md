@@ -11,6 +11,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [Audio](#audio)
 * [Bootables](#bootables)
 * [Compilers and interpreters](#compilers-and-interpreters)
+* [Concurrency](#concurrency)
 * [Database](#database)
 * [Editor plugins](#editor-plugins)
 * [Emulators](#emulators)
@@ -90,6 +91,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [dantecatalfamo/wren-zig](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 * [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
+## Concurrency
+* [kprotty/zefi](https://github.com/kprotty/zefi) - Zig fiber library.
+* [rsepassi/zigcoro](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
 
 ## Database
 * [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance.
@@ -162,7 +166,6 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) - Simple raytracer.
 * [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
 * [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) - A simple paint application. Used to create an OpenGL loader/wrapper and a minimal UI system.
-
 
 ## Misc libraries
 * [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
@@ -318,5 +321,4 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) client.
 * [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS.
 * [ynuwenhof/zigbraten](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
-* [kprotty/zefi](https://github.com/kprotty/zefi) - Zig fiber library.
 
