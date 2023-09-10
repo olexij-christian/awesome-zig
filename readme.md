@@ -91,11 +91,13 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [dantecatalfamo/wren-zig](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 * [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
+
 ## Concurrency
 * [mitchellh/libxev](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
-* [kprotty/zefi](https://github.com/kprotty/zefi) - Zig fiber library.
+* [kprotty/zefi](https://github.com/kprotty/zefi) - Fiber library.
 * [rsepassi/zigcoro](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
 * [iacore/minicoro-zig](https://git.envs.net/iacore/minicoro-zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
+
 
 ## Database
 * [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance.
@@ -179,11 +181,11 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [mlarouche/zigimg](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
 * [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 * [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
-* [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
+* [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.
 * [karlseguin/log.zig](https://github.com/karlseguin/log.zig) - Structured logging library.
 * [dantecatalfamo/9p-zig](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 * [karlseguin/singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
-* [kassane/lean4-zig](https://github.com/kassane/lean4-zig) - Zig bindings for Lean 4 (theorem prover).
+* [kassane/lean4-zig](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
 
 
 ## Network
