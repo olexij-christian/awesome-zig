@@ -41,6 +41,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) - Sparse sets, supporting both SOA and AOS style.
 * [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
 * [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
+* [karlseguin/cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
 
 
 ## Allocators and memory
@@ -97,6 +98,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) - SQLite bindings.
 * [vrischmann/zig-cassandra](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
 * [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) - SQLite wrapper.
+* [karlseguin/zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
 
 
 ## Editor plugins
@@ -175,6 +177,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
 * [karlseguin/log.zig](https://github.com/karlseguin/log.zig) - Structured logging library.
 * [dantecatalfamo/9p-zig](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
+* [karlseguin/singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
+* [iacore/minicoro-zig](https://git.envs.net/iacore/minicoro-zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
+
 
 ## Network
 * [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
@@ -269,22 +274,25 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 
 * [andrewrk/SDL](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
 * [andrewrk/ffmpeg](https://github.com/andrewrk/ffmpeg) - library only.
-* [andrewrk/libgroove](https://github.com/andrewrk/libgroove)
-* [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg)
+* [andrewrk/libgroove](https://github.com/andrewrk/libgroove) - streaming audio processing library.
+* [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - library for real-time audio input and output.
 * [kassane/openssl](https://github.com/kassane/openssl) - crypto, providers & ssl libraries only.
+* [kassane/wolfssl](https://github.com/kassane/wolfssl) - wolfssl library.
 * [kassane/libbpf](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
-* [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - MinGW pthread library.
+* [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
 
 ### C++
 
-* [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint)
+* [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint) - library for generating audio fingerprints used by AcoustID.
 * [kassane/asio](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
-* [kassane/fmt](https://github.com/kassane/fmt)
-* [kassane/hana](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).>
+* [kassane/fmt](https://github.com/kassane/fmt) - Modern formatting library.
+* [kassane/context](https://github.com/kassane/context) - (boost-context) fiber library (C++14/17/20).
+* [kassane/hana](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
+* [kassane/intrusive](https://github.com/kassane/intrusive) - (boost-intrusive) intrusive containers (header-only, C++03/11/14).
 * [kassane/catch2](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
 * [kassane/outcome](https://github.com/kassane/outcome) - (non-boost) Error handler (C++14/17/20).
 * [kassane/json](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
-* [kassane/range](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
+* [kassane/range-v3](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
 * [kassane/libzmq](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
 
 
